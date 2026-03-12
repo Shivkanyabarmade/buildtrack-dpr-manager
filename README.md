@@ -2,8 +2,6 @@
 
 A responsive React.js web application for managing construction projects and submitting Daily Progress Reports (DPR).
 
-![BuildTrack Preview](./preview.png)
-
 ---
 
 ## Tech Stack
