@@ -1,8 +1,11 @@
-# ConstructPro — Construction Field Management App
+# BuildTrack — Construction Field Management App
 
 A responsive React.js web application for managing construction projects and submitting Daily Progress Reports (DPR).
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> ef15465f2b366672e7e9766ac63d2bb217650e9f
 ---
 
 ## Tech Stack
