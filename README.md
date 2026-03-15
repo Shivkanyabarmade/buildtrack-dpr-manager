@@ -154,7 +154,7 @@ npm run preview
 
 ---
 
-## Deployment (Vercel)
+## Deployment(Vercel)
 
 ```bash
 # Install Vercel CLI
